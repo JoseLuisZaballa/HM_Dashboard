@@ -5,7 +5,7 @@
 * [Api](#api)
 * [Contributors](#contributors)
 
-<img src="https://github.com/JoseLuisZaballa/HM_Dashboard/image.png">
+<img src="https://github.com/JoseLuisZaballa/HM_Dashboard/blob/main/image.png">
 
 
 ## <a name='front'></a>**Front End**
