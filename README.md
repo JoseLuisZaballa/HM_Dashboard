@@ -37,13 +37,13 @@ The dashboard has six sections, and each section displays different charts and K
 This is the first draft of the web application, and we are eager to hear your suggestions. Please send us your recommendations to improve the webpage to: joseluis.zaballa@student.ie.edu.
 
 ### Libraries Used
-pandas
-streamlit
-numpy
-streamlit_authenticator
-yaml
-requests
-plotly.express
+* pandas
+* streamlit
+* numpy
+* streamlit_authenticator
+* yaml
+* requests
+* plotly.express
 
 ## <a name='api'></a>**API for H&M Dashboard**
 ### Key Features
@@ -59,11 +59,10 @@ GET /api/v1/master
 This endpoint returns all the rows of the master table from the specified MySQL database.
 
 ### Libraries Used
-Flask
-SQLAlchemy
-Flask-RESTX
-PyMySQL
-These can be installed via pip with the following command:
+* Flask
+* SQLAlchemy
+* Flask-RESTX
+* PyMySQL
 
 ## <a name='contributors'></a>**Contributors**
 Jose Luis Zaballa (@joseluiszaballa)
