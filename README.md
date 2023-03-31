@@ -22,7 +22,7 @@ Sections:
 * Category Sales
 * Color Sales
 * Sales per Article
-Each section contains different charts and kpis according to that topic and the selected filters.
+-> Each section contains different charts and kpis according to that topic and the selected filters.
 
 ### Installation
 Clone the repository: git clone https://github.com/your_username/hm_dashboard.git
