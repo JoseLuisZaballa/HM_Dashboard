@@ -13,7 +13,7 @@ This repository contains the code for a Streamlit-based dashboard for H&M store.
 
 ### Key Features
 Authentication: The dashboard has an authentication process to ensure only authorized users can access the data.
-Filters: Users can easily filter the data by Age Range, Customers News Frequency, Customers Member Status, Sales Channel, Index Group and Dates Sales
+Filters: Users can easily filter the data by Age Range, Customers News Frequency, Customers Member Status, Sales Channel, Index Group and Dates Sales.
 Sections:
 * How to use the dashboard?
 * Customers
