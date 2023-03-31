@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.40
+flask
+gunicorn
+flask_restx
+PyMySQL==1.0.2
